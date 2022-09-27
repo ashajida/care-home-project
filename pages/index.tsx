@@ -9,7 +9,7 @@ const Home: NextPage = () => {
       <Section>
         <Container ExtraClasses="flex items-center justify-center">
           <div className="text-center">
-            <h1 className="font-bold text-4xl mb-4">Jesta ThaRogue</h1>
+            <h1 className="font-bold text-4xl mb-4">Care Home</h1>
             <h2 className="text-2xl">
               Board Game Reviews &amp; How to Play Videos
             </h2>
